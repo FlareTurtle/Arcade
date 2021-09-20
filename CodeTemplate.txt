@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Romance Academy: Heartbeat of Love
+//Kevin Vuong
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (boy comes into range of sight) {
+    activate laser eyes and begin the seduction operation
 } else {
-    //Add event below
+    continue walking as you look for your prey
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (girl is in range of your prey while you are laser beaming and starts counter laser beaming) {
+    laser eyes intensifies and spam clicking ensues
 } else {
-    //Add event below
+    continue to seduce boy normally
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (heart ammo gauge is full) {
+    enter a state of enlightenment and become unstoppable
 } else {
-    //Add event below
+    continue on your mission of taking over the school one boy at a time
 }
 
 
